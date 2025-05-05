@@ -6,7 +6,7 @@ I'm a software QA engineer passionate about contributing to the tech and QA comm
 
 ## 🏆 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsenkhosroanjam&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true&hide=stars,contribs,commits" alt="mohsenkhosroanjam" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsenkhosroanjam&show_icons=true&locale=en&theme=radical&include_all_commits=true&count_private=true&hide=stars,contribs,commits&v=2" alt="mohsenkhosroanjam" />
 </p>
 
 ## 🔥 Contribution Graph
